@@ -1,0 +1,9 @@
+user has presented information to login with card
+user on pi is client - connects to server
+user has presented information about ranking on current score of game
+user has presented button to play
+
+user sends to server information about game request and server initializes game
+when game ended - server sends to client new ranking and current score info
+
+on close client disconnects

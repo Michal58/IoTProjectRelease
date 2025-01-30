@@ -1,0 +1,4 @@
+install paho
+run service on raspberry
+run server
+run client
